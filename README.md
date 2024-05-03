@@ -1,6 +1,5 @@
 # stride
-
-A new Flutter project.
+Stride mobile application built on flutter, and golang.
 
 ## Splash Screen
 <img alt="splash screen" height="620" src="./screenshots/splash_screen.png"/>
